@@ -26,7 +26,7 @@ from aslite.db import load_features
 # -----------------------------------------------------------------------------
 # inits and globals
 
-RET_NUM = 25 # number of papers to return per page
+RET_NUM = 10 # number of papers to return per page
 
 app = Flask(__name__)
 
@@ -299,38 +299,38 @@ def main():
     context['gvars']['page_number'] = str(page_number)
     return render_template('index.html', **context)
 
-@app.route('/inspect', methods=['GET'])
-def inspect():
+# @app.route('/inspect', methods=['GET'])
+# def inspect():
 
-    # fetch the paper of interest based on the pid
-    pid = request.args.get('pid', '')
-    pdb = get_papers()
-    if pid not in pdb:
-        return "error, malformed pid" # todo: better error handling
+#     # fetch the paper of interest based on the pid
+#     pid = request.args.get('pid', '')
+#     pdb = get_papers()
+#     if pid not in pdb:
+#         return "error, malformed pid" # todo: better error handling
 
-    # load the tfidf vectors, the vocab, and the idf table
-    features = load_features()
-    x = features['x']
-    idf = features['idf']
-    ivocab = {v:k for k,v in features['vocab'].items()}
-    pix = features['pids'].index(pid)
-    wixs = np.flatnonzero(np.asarray(x[pix].todense()))
-    words = []
-    for ix in wixs:
-        words.append({
-            'word': ivocab[ix],
-            'weight': float(x[pix, ix]),
-            'idf': float(idf[ix]),
-        })
-    words.sort(key=lambda w: w['weight'], reverse=True)
+#     # load the tfidf vectors, the vocab, and the idf table
+#     features = load_features()
+#     x = features['x']
+#     idf = features['idf']
+#     ivocab = {v:k for k,v in features['vocab'].items()}
+#     pix = features['pids'].index(pid)
+#     wixs = np.flatnonzero(np.asarray(x[pix].todense()))
+#     words = []
+#     for ix in wixs:
+#         words.append({
+#             'word': ivocab[ix],
+#             'weight': float(x[pix, ix]),
+#             'idf': float(idf[ix]),
+#         })
+#     words.sort(key=lambda w: w['weight'], reverse=True)
 
-    # package everything up and render
-    paper = render_pid(pid)
-    context = default_context()
-    context['paper'] = paper
-    context['words'] = words
-    context['words_desc'] = "The following are the tokens and their (tfidf) weight in the paper vector. This is the actual summary that feeds into the SVM to power recommendations, so hopefully it is good and representative!"
-    return render_template('inspect.html', **context)
+#     # package everything up and render
+#     paper = render_pid(pid)
+#     context = default_context()
+#     context['paper'] = paper
+#     context['words'] = words
+#     context['words_desc'] = "The following are the tokens and their (tfidf) weight in the paper vector. This is the actual summary that feeds into the SVM to power recommendations, so hopefully it is good and representative!"
+#     return render_template('inspect.html', **context)
 
 @app.route('/profile')
 def profile():

@@ -30,7 +30,8 @@ if __name__ == '__main__':
     """
 
     # query string of papers to look for
-    q = 'cat:cs.CV+OR+cat:cs.LG+OR+cat:cs.CL+OR+cat:cs.AI+OR+cat:cs.NE+OR+cat:cs.RO'
+    # q = 'cat:cs.CV+OR+cat:cs.LG+OR+cat:cs.CL+OR+cat:cs.AI+OR+cat:cs.NE+OR+cat:cs.RO'
+    q = 'cat:cs.RO'
 
     pdb = get_papers_db(flag='c')
     mdb = get_metas_db(flag='c')
@@ -52,15 +53,16 @@ if __name__ == '__main__':
             try:
                 resp = get_response(search_query=q, start_index=k)
                 papers = parse_response(resp)
-                time.sleep(0.5)
+                print(papers)
+                time.sleep(0.1)
                 if len(papers) == 100:
                     break # otherwise we have to try again
             except Exception as e:
                 logging.warning(e)
                 logging.warning("will try again in a bit...")
                 ntried += 1
-                if ntried > 1000:
-                    logging.error("ok we tried 1,000 times, something is srsly wrong. exitting.")
+                if ntried > 2:
+                    logging.error("ok we tried 2 times, something is srsly wrong. exitting.")
                     sys.exit()
                 time.sleep(2 + random.uniform(0, 4))
 
