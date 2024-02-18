@@ -7,58 +7,36 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* Nanyang Technological University (NTU), Singapore, Aug 2016 – Jan 2021
+  * Ph.D. in Electronics and Electrical Engineering
+* Tianjin University (TJU), Tianjin, China, Sep 2012 – Jul 2016
+  * B.E. in Mechanical Engineering
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* Wallenberg-NTU Presidential Postdoc Fellow, KTH Royal Institute of Technology, Nov 2023-present
+  * Principal Investigator, 300k SEK funding
+  * Advisor: Karl H. Johansson (Professor, KTH; Fellow of IEEE, Royal Swedish Academy of Engineering Sciences)
+* Wallenberg-NTU Presidential Postdoc Fellow, School of EEE, NTU, Oct 2022-Oct 2023
+  * Principal Investigator, 10k SGD funding, lead one project officer and two student interns
+  * Advisor: Lihua Xie (Professor, NTU; Fellow of Academy of Engineering Singapore, IEEE, IFAC, CAA)
+* Research Fellow, Research Assistant, School of EEE, NTU, Jul 2020- Oct 2022
+  * Advisor: Lihua Xie (Professor, NTU; Fellow of Academy of Engineering Singapore, IEEE, IFAC, CAA)
+* Research Assistant, MoE Key Lab. of Mech. Theory and Equip. Design, TJU, Apr 2014-Jul 2016
+  * Advisor: Rongjie Kang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Award and honors
+- IROS Best Entertainment and Amusement Paper Award, Oct 2023
+- Wallenberg-NTU Presidential Postdoctoral Fellowship (5/∼ 1k), Oct 2022
+- Final shortlist of Alibaba Global Math Competition (254/∼ 40k), Apr 2020
+- Best Student Thesis of Tianjin (only 3 in TJU, 42 in total), Dec 2016
+- NTU Research Scholarship, Jul 2016
+- Group 1st prize in undergraduate thesis competition of Beijing, Tianjin and Hebei, Jun 2016
+- National Scholarship, Oct 2014
+- Merit Student of Tianjin University, Oct 2013
+- 1st prize in competition of Advanced Mathematics of Tianjin, May 2013
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
