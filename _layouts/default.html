@@ -5,14 +5,25 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2}}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
-
+    <!-- <header>
+        <nav>
+            <ul>
+                {% assign current_lang = page.lang | default: 'en' %}
+                {% for item in site.data.navigation[current_lang] %}
+                    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endfor %}
+                <li><a href="{{ page.url | replace_first: '/zh', '' }}">English</a></li>
+                <li><a href="/zh{{ page.url }}">中文</a></li>
+            </ul>
+        </nav>
+    </header> -->
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 

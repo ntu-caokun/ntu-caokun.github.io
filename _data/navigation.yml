@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "【中文主页】"
+    url: /about_zh/
+
   - title: "Publications"
     url: /publications/
 
@@ -23,3 +26,16 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # zh:
+  #   - title: "发表论文"
+  #     url: /zh/publications/
+
+  #   - title: "关于"
+  #     url: /zh/about/
+
+  #   - title: "学术服务"
+  #     url: /zh/aca-srv/
+
+  #   - title: "简历"
+  #     url: /zh/cv/
