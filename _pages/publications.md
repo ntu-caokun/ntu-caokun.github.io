@@ -29,6 +29,7 @@ author_profile: true
 1. K. Cao, M. Cao, S. Yuan, L. Xie, “[DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation](https://ieeexplore.ieee.org/document/9681227)”, IEEE Robotics and Automation Letters, 2022. (also accepted to IEEE International Conference on Robotics and Automation, 2022.) [Demo video](https://youtu.be/BM8_ABM_2VM), [**code**](https://github.com/ntu-caokun/DIRECT)
 1. L. Chen, K. Cao, L. Xie, X. Li, F. Mir, “[3D Network Localization Using Angle Measurements and Reduced Communication](https://ieeexplore.ieee.org/abstract/document/9757822/)”, IEEE Trans. on Signal Processing, 2022.
 1. K. Cao, Z. Han, Z. Lin, L. Xie, “[Bearing-only Distributed Localization: A Unified Barycentric Approach](https://www.sciencedirect.com/science/article/abs/pii/S000510982100354X)”, Automatica, 2021.
+1. Jianping Li, Shenghai Yuan, Muqing Cao, Thien-Minh Nguyen, Kun Cao, Lihua Xie, “[HCTO: Optimality-aware LiDAR inertial odometry with hybrid continuous time optimization for compact wearable mapping system](https://www.sciencedirect.com/science/article/pii/S092427162400162X)”, ISPRS Journal of Photogrammetry and Remote Sensing, 2024. [**project site**](https://github.com/kafeiyin00/HCTO)
 1. M. Cao, K. Cao, X. Li, et al. “[Distributed Multi-robot Sweep Coverage for a Region with Unknown Workload Distribution](https://link.springer.com/article/10.1007/s43684-021-00011-1)”, Autonomous Intelligent System, 2021. [Demo video](https://youtu.be/QFXr0ZWNCtE)
 1. D. Li, K. Cao, L. Kong, H. Yu, “[Fully Distributed Cooperative Circumnavigation of Networked Unmanned Aerial Vehicles](https://ieeexplore.ieee.org/document/9340580)”, IEEE Trans. on Mechatronics, 2020.
 1. K. Cao, X. Li, L. Xie, “[Preview-Based Discrete-Time Dynamic Formation Control Over Directed Networks via Matrix-Valued Laplacian](https://ieeexplore.ieee.org/document/8701524)”, IEEE Trans. on Cybernetics, 2020.
@@ -39,6 +40,7 @@ author_profile: true
 
 
 ## Conferences
+1. G. Chen, K. Cao, K. H. Johansson, Y. Hong, “[Continuous-Time Damping-Based Mirror Descent for a Class of Non-Convex Multi-Player Games with Coupling Constraints]”, IEEE International Conf. on Control and Automation (ICCA), 2024. (🏆 **Best Paper Award**)
 1. M. Cao, X. Xu, S. Yuan, K. Cao, K. Liu, L. Xie, “DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheel'', International Conference on Intelligent Robots and Systems (IROS), 2023. (🏆 **IROS Best Entertainment and Amusement Paper Award**)
 1. M. Cao, K. Cao, S. Yuan, K. Liu, Y. Wong, L. Xie, “Path Planning for Multiple Tethered Robots Using Topological Braids", Robotics: Science and Systems(RSS), 2023. [Demo video](https://youtu.be/BEQ3iBT5bmI)
 1. C. Wang, ..., K. Cao, ..., “PyPose: A Library for Robot Learning with Physics-based Optimization", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
