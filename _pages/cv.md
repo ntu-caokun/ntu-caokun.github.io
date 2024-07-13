@@ -18,7 +18,7 @@ redirect_from:
 
 ## Work experience
 * Wallenberg-NTU Presidential Postdoc Fellow, KTH Royal Institute of Technology, Nov 2023-present
-  * **Principal Investigator**, 300k SEK funding
+  * **Principal Investigator**, 300k SEK funding, lead two master students and one undergraduate student
   * Advisor: Karl H. Johansson (Professor, KTH; Fellow of Royal Swedish Academy of Engineering Sciences, IEEE)
 * Wallenberg-NTU Presidential Postdoc Fellow, School of EEE, NTU, Oct 2022 - Oct 2023
   * **Principal Investigator**, 100k SGD funding, lead one project officer and two student interns
@@ -29,7 +29,7 @@ redirect_from:
   * Advisor: Jian S. Dai (Professor, King's College London; Fellow of Royal Academy of Engineering, IEEE, ASME), Rongjie Kang (Professor, TJU)
   
 ## Award and honors
-- IEEE International Conf. on Control & Automation (ICCA), Jun 2024
+- IEEE International Conf. on Control & Automation (ICCA) Best Paper Award, Jun 2024
 - IEEE IROS Best Entertainment and Amusement Paper Award, Oct 2023
 - Wallenberg-NTU Presidential Postdoctoral Fellowship (5/∼ 1k applicants per year), Oct 2022
 - Final shortlist of Alibaba Global Math Competition (254/∼ 40k), Apr 2020
