@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## [[中文主页]](/about_zh)
+
+## Bio
 I will join [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn) as a faculty member in Sep 2024 (expected). I am a Wallenberg-NTU presidential postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, host by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). 
 I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 I did my PhD at [Nanyang Technological University](https://www.ntu.edu.sg/), where I was advised by [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and funded by the STE-NTU Corp Lab.
@@ -21,7 +24,7 @@ Prior to that, I obtained my bachelor degree at [Tianjin University](https://www
 
 
 ## Join us 🔥🔥🔥
-Starting from Sep 2024, we are actively looking for self-motivated, passionate, and dedicated undergraduate and graduate students to join our lab as research assistants and postdocs, which will be jointly supervised with professors in [Lab of Agent-based Interactive Learning and Autonomous Decision-making](https://ai-lab.tongji.edu.cn/25079/list.htm). 
+We are actively looking for self-motivated, passionate, and dedicated undergraduate and graduate students to join our lab as research assistants and postdocs, which will be jointly supervised with professors in [Lab of Agent-based Interactive Learning and Autonomous Decision-making](https://ai-lab.tongji.edu.cn/25079/list.htm). 
 
 Ideal candidates should possess a background and project experience in one or more of the following areas:
 * Dynamics and controls
