@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Kun Cao's Home Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## [[中文主页]](/about_zh)
 
-## Bio
+## Bio [[中文主页]](/about_zh)
 I will join [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn) as a faculty member in Sep 2024 (expected). I am a Wallenberg-NTU presidential postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, host by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). 
 I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 I did my PhD at [Nanyang Technological University](https://www.ntu.edu.sg/), where I was advised by [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and funded by the STE-NTU Corp Lab.
@@ -38,7 +37,7 @@ Ideal candidates should possess a background and project experience in one or mo
 If you are interested, please [submit your application here](https://wj.qq.com/s2/14930986/fa6c/). We will contact you if we find that your background aligns with the our research directions.
 
 ## Contact
-* Email: kun001 AT e.ntu.edu.sg; caokun AT kth.se
+* Email: kun001 AT e.ntu.edu.sg
 * Address: Malvinas Väg 10, 114 28 Stockholm, Sweden
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=LLaYO4kpRR1Hv634a2N8GlvF7Sxo042TE3ngluj6B70&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
