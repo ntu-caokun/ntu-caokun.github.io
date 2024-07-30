@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprint
-1. K. Cao, X. Xu, W. Jin, K. H. Johansson, L. Xie, “A Differential Dynamic Programming Framework for Inverse Reinforcement Learning”, submitted to IEEE Trans. on Robotics, 2024. [manuscript submitted to Arxiv](https://kth-my.sharepoint.com/:b:/g/personal/caokun_ug_kth_se/EZY-Oa4qcf5IrsuUMUZGUwoBvD2fjrucnGNRvCyBFLAh5A?e=xGBqcV)
+1. K. Cao, X. Xu, W. Jin, K. H. Johansson, L. Xie, “A Differential Dynamic Programming Framework for Inverse Reinforcement Learning”, submitted to IEEE Trans. on Robotics, 2024. [manuscript submitted to Arxiv](https://kth-my.sharepoint.com/:b:/g/personal/caokun_ug_kth_se/EZY-Oa4qcf5IrsuUMUZGUwoBvD2fjrucnGNRvCyBFLAh5A?e=xGBqcV), [Arxiv Link](https://arxiv.org/abs/2407.19902)
 
 
 ## Jourals
