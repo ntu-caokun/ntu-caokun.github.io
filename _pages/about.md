@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 ## Bio [[中文主页]](/about_zh)
-I will join [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn) as a faculty member in Sep 2024 (expected). I am a Wallenberg-NTU presidential postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, host by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). 
-I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
+I am a faculty member with [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/), [Shanghai Research Institute for Intelligent Autonomous Systems](https://srias.tongji.edu.cn/main.htm), [Tongji University](https://www.tongji.edu.cn). I was a Wallenberg-NTU presidential postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, host by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). 
 I did my PhD at [Nanyang Technological University](https://www.ntu.edu.sg/), where I was advised by [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and funded by the STE-NTU Corp Lab.
 Prior to that, I obtained my bachelor degree at [Tianjin University](https://www.tju.edu.cn/), where I was advised by [Prof. Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/) and [Prof. Rongjie Kang](https://faculty.tju.edu.cn/RongjieKang/en/index.htm).
-
+I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 
 ## Research interests
 * inverse reinforcement learning/inverse optimal control
