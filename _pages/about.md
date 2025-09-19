@@ -13,6 +13,10 @@ I did my PhD at [Nanyang Technological University](https://www.ntu.edu.sg/), whe
 Prior to that, I obtained my bachelor degree at [Tianjin University](https://www.tju.edu.cn/), where I was advised by [Prof. Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/) and [Prof. Rongjie Kang](https://faculty.tju.edu.cn/RongjieKang/en/index.htm).
 I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 
+## News
+* Sep 2025, one paper got accepted by **TRO**!
+* Sep 2025, two PhD students, Jiajun and Jiayan, and two master students, Meizhong and Yiren, joined our lab, welcome!
+
 ## Research interests
 * inverse reinforcement learning/inverse optimal control
 * distributed localization and formation control
