@@ -16,10 +16,11 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprint
-1. K. Cao, X. Xu, W. Jin, K. H. Johansson, L. Xie, “A Differential Dynamic Programming Framework for Inverse Reinforcement Learning”, submitted to IEEE Trans. on Robotics, 2024. [manuscript submitted to Arxiv](https://kth-my.sharepoint.com/:b:/g/personal/caokun_ug_kth_se/EZY-Oa4qcf5IrsuUMUZGUwoBvD2fjrucnGNRvCyBFLAh5A?e=xGBqcV), [Arxiv Link](https://arxiv.org/abs/2407.19902)
+
 
 
 ## Journals
+1. K. Cao, X. Xu, W. Jin, K. H. Johansson, L. Xie, “A Differential Dynamic Programming Framework for Inverse Reinforcement Learning”, accepted to IEEE Trans. on Robotics, 2025. [manuscript submitted to Arxiv](https://kth-my.sharepoint.com/:b:/g/personal/caokun_ug_kth_se/EZY-Oa4qcf5IrsuUMUZGUwoBvD2fjrucnGNRvCyBFLAh5A?e=xGBqcV), [Arxiv Link](https://arxiv.org/abs/2407.19902)
 1. J.	Li, X. Xu, J. Liu, K. Cao, S. Yuan, L. Xie,  “[UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry](https://ieeexplore.ieee.org/document/10900461)”, IEEE Robotics and Automation Letters, 2025, 10(4): 3652-3659.
 1. K. Cao, L. Xie, “[Trust-Region Inverse Reinforcement Learning](https://ieeexplore.ieee.org/document/10121904)”, IEEE Transactions on Automatic Control, 2024, 69(2): 1037-1044.
 1. K. Cao, M. Cao, L. Xie, “[Similar Formation Control via Range and Odometry Measurements](https://ieeexplore.ieee.org/document/10099461)”, IEEE Transactions on Cybernetics, 2024, 54(6): 3765-3776. [Demo video](https://youtu.be/BEQ3iBT5bmI)
