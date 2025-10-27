@@ -14,6 +14,7 @@ Prior to that, I obtained my bachelor degree at [Tianjin University](https://www
 I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 
 ## News
+* Oct 2025, one paper got accepted by **IJRR**!
 * Sep 2025, one paper got accepted by **TRO**!
 * Sep 2025, two PhD students, Jiajun and Jiayan, and two master students, Meizhong and Yiren, joined our lab, welcome!
 
