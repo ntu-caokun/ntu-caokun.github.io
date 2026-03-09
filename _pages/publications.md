@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprint
-
+1. M. Wang and W. Jin and K. Cao* and L. Xie and Y. Hong, “ContactGaussian-WM: Learning Physics-Grounded World Model from Videos”, 2026. [arxiv](https://arxiv.org/abs/2602.11021), [project website](https://contactgaussian-wm.github.io/)
 
 
 ## Journals
