@@ -29,6 +29,7 @@ redirect_from:
   * Advisor: Jian S. Dai (Professor, King's College London; Fellow of Royal Academy of Engineering, IEEE, ASME), Rongjie Kang (Professor, TJU)
   
 ## Award and honors
+- Honorable Mention of the International Journal of Robotics Research (IJRR) Paper of the Season Award (Q2 2025), Mar 2026 
 - IEEE International Conf. on Control & Automation (ICCA) Best Paper Award, Jun 2024
 - IEEE IROS Best Entertainment and Amusement Paper Award, Oct 2023
 - Wallenberg-NTU Presidential Postdoctoral Fellowship (5/∼ 1k applicants per year), Oct 2022
