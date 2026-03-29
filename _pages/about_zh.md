@@ -9,6 +9,7 @@ redirect_from:
 操锟博士现任[同济大学](https://www.tongji.edu.cn)[电子与信息工程学院](https://see-en.tongji.edu.cn/)特聘研究员。他曾在[瑞典皇家理工学院](https://www.kth.se/)担任Wallenberg-NTU 荣誉博后，合作导师为[Karl Henrik Johansson教授](https://people.kth.se/~kallej/index.html)。他博士毕业于[新加坡南洋理工大学](https://www.ntu.edu.sg/), 导师是[Lihua Xie教授](https://personal.ntu.edu.sg/elhxie/)。此前，他于[天津大学](https://www.tju.edu.cn/)取得学士学位, 导师是[Jian S. Dai教授](https://nms.kcl.ac.uk/jian.dai/)和[康荣杰教授](https://faculty.tju.edu.cn/RongjieKang/en/index.htm)。他的研究方向包括群体智能（基于模型或学习的多机器人导航）以及单机智能（机器人设计、建模和控制）。
 
 ## 新闻动态
+* 2026年3月，我们的IJRR被选为Honorable Mention of the IJRR paper of the Season Award (Q2 2025) 🏆!
 * 2026年2月, 我们的新工作 [ContactGaussian-WM](https://contactgaussian-wm.github.io/)，欢迎阅读!
 * 2025年10月, 一篇**IJRR**文章被接收!
 * 2025年9月, 一篇**TRO**文章被接收! [国重报道](https://skl-ais.tongji.edu.cn/79/ff/c32346a358911/page.htm)
