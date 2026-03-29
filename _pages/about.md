@@ -14,6 +14,7 @@ Prior to that, I obtained my bachelor degree at [Tianjin University](https://www
 I work on both swarm-level intelligence, focusing on model/learning-based navigation for multi-robot system, and also individual-level intelligence, focusing on design, modelling and control for single robot.
 
 ## News
+* Mar 2026, our IJRR paper has been selected as Honorable Mention of the IJRR paper of the Season Award (Q2 2025) 🏆!
 * Feb 2026, our new paper [ContactGaussian-WM](https://contactgaussian-wm.github.io/) has been released, check it out! 
 * Oct 2025, one paper got accepted by **IJRR**!
 * Sep 2025, one paper got accepted by **TRO**!
